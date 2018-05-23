@@ -1,6 +1,7 @@
 .fan-images {
-  width: 25%;
+  width: 23%;
   float: left;
+  padding: 1%;
 }
 img {
   max-width: 100%;
@@ -13,6 +14,10 @@ img {
   float: right;
   width: 33%;
   text-align: right;
+  background: grey;
+  border: 1px solid darkgrey;
+  padding: 2px;
+  margin: 2px;
 }
 
 li {
