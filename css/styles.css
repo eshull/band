@@ -3,4 +3,18 @@
   float: left;
 }
 img {
-  max-width: 100%;}
+  max-width: 100%;
+}
+.body-left {
+  width: 66%;
+  float: left;
+}
+.body-right {
+  float: right;
+  width: 33%;
+  text-align: right;
+}
+
+li {
+  list-style: none;
+}
